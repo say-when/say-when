@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @say-when
-- 👀 I’m interested in SwiftUI & Swift, and all aspects of iOS development
-- 🌱 I’m currently learning, SwiftUI, and just started to investigate Flutter & Dart.
+- 👀 I’m interested in SwiftUI, Swift, and all aspects of iOS development
+- 🌱 I’m currently learning, SwiftUI (struggling against more than learning - if you're a Swift developer of lengthy experience, you know what I'm taling about). Just started to investigate Flutter & Dart and it's quite intriguing.
 - 💞️ I’m looking to collaborate on, anything really. My day to day work keeps me busy, but collaboration might be fun.
 - 📫 How to reach me...scottgrantapps@gmail.com
 
